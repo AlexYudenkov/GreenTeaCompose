@@ -9,6 +9,4 @@ class ViewModelGreenTea constructor(
 init = GreenTeaFeature.Logic.initialUpdate,
 update = GreenTeaFeature.Logic::update,
 dependencies = dependencies
-) {
-
-}
+)
